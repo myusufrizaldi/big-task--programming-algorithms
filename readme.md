@@ -5,34 +5,29 @@ Group 6
 > M. Khairi Nasution
 > Teo Rasyid Prawiranegara
 
-This task uses:
--Traditional Database (with external files)
--Automated Sorting System (but with Bubble Sort)
--Static Array for Save the Data (up to 999)
+This task uses: <br />
+-Traditional Database (with external files) <br />
+-Automated Sorting System (but with Bubble Sort) <br />
+-Static Array for Save the Data (up to 999) <br />
 
-<!----Important---->
+<----Important----> <br />
 The res folder is a traditional database (external file),
-do not move or make any changes.
-<!----Important---->
+do not move or make any changes. <br />
+<----Important----> <br />
 
 WHAT IS THIS SOFTWARE CAN DO?
 
--Ordering food/drinks
-   -Add
-   -Cancel
--Calculate the total price
--View the ordered food/drinks
-   -Order by order time
-   -Search by id
--Save the receipt (in .struct)
--Customize the user interface
-   -Tab Indent (to the left of Command Prompt/Terminal)
-   -On/off ASS (Automated Sorting System) for showing the menu
--You may use this software with Local Area Network
+-Ordering food/drinks (Add & Cancel order) <br />
+-Calculate the total price <br />
+-View the ordered food/drinks (Order by order time & Search by id) <br />
+-Save the receipt (in .struct) <br />
+-Customize the user interface <br />
+-Set ASS (Automated Sorting System) On/off for showing the menu <br />
+-You may use this software with Local Area Network <br />
 
 
-WHAT IS ASS/Automated Sorting System
--> ASS is for showing the menu sorted by the frequency of order,
--> the frequent one is in the top of menu.
+WHAT IS ASS/Automated Sorting System<br />
+ASS is for showing the menu sorted by the frequency of order,<br />
+the frequent one is in the top of menu.<br />
 
 //Sorry for the messy code, that is my learning process :v
